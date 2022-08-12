@@ -1,0 +1,60 @@
+Test case 1:
+Number of input nodes : 9362 
+Total distance : 142005 
+log2(n) is 13.19  vs average number of nodes from root to another node : 15.17
+4log2(n) + 1 : 53.77
+###########################
+Test case 2:
+Number of input nodes : 6632 
+Total distance : 94778 
+log2(n) is 12.70  vs average number of nodes from root to another node : 14.29
+4log2(n) + 1 : 51.78
+###########################
+Test case 3:
+Number of input nodes : 325 
+Total distance : 2847 
+log2(n) is 8.34  vs average number of nodes from root to another node : 8.76
+4log2(n) + 1 : 34.38
+###########################
+Test case 4:
+Number of input nodes : 710 
+Total distance : 6765 
+log2(n) is 9.47  vs average number of nodes from root to another node : 9.53
+4log2(n) + 1 : 38.89
+###########################
+Test case 5:
+Number of input nodes : 4312 
+Total distance : 57943 
+log2(n) is 12.07  vs average number of nodes from root to another node : 13.44
+4log2(n) + 1 : 49.30
+###########################
+Test case 6:
+Number of input nodes : 783 
+Total distance : 8266 
+log2(n) is 9.61  vs average number of nodes from root to another node : 10.56
+4log2(n) + 1 : 39.45
+###########################
+Test case 7:
+Number of input nodes : 3155 
+Total distance : 41868 
+log2(n) is 11.62  vs average number of nodes from root to another node : 13.27
+4log2(n) + 1 : 47.49
+###########################
+Test case 8:
+Number of input nodes : 8189 
+Total distance : 118171 
+log2(n) is 13.00  vs average number of nodes from root to another node : 14.43
+4log2(n) + 1 : 53.00
+###########################
+Test case 9:
+Number of input nodes : 2573 
+Total distance : 38547 
+log2(n) is 11.33  vs average number of nodes from root to another node : 14.98
+4log2(n) + 1 : 46.32
+###########################
+Test case 10:
+Number of input nodes : 2445 
+Total distance : 29616 
+log2(n) is 11.26  vs average number of nodes from root to another node : 12.11
+4log2(n) + 1 : 46.02
+###########################
